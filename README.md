@@ -41,3 +41,30 @@ Scope of this project:
 #### Frontend
 * Framework: Bootstrap
 * Deployment: Cloudinary for image upload
+* Map:  using MapBox API to display geo map inside the app
+
+
+## U-Review - [rails-uni-review.herokuapp.com](https://rails-uni-review.herokuapp.com/)
+![image](https://github.com/verina-dinata/verina-dinata.github.io/assets/82457559/072eb9fa-c2e9-4c7c-9134-355a1937f746)
+
+
+### Summary
+Empowering students with real-life reviews: This project helps future students make informed decisions by providing them with trusted reviews of universities from graduates in Singapore, Malaysia, and Australia.
+
+Scope of this project:
+* University listings, search and details
+* University review capabilities by alumnae through email verification
+* Forum discussion to connect alumnae and prospective student
+* Favorite list for users to keep track of their university preferences
+* User management: sign up, login, logout
+  
+### Technology
+#### Backend
+* Framework: Ruby on Rails
+* Deployment: Heroku for simplicity
+#### Frontend
+* Framework: Bootstrap
+* Deployment: Cloudinary for image upload
+* Map: Using MapBox API to display geo map inside the app
+#### Sendgrid
+* Sendgrid was used to send emails related to user management and user verification
