@@ -22,3 +22,22 @@ Learn efficiently, speak accurately. By prioritizing frequently used words, user
 #### Sound generation
 * Generated using AWS Polly
 * Stored in AWS S3 and distributed using AWS Cloudfront
+  
+## Airbnb Replica - [air.vdin.xyz](https://air.vdin.xyz/)
+![image](https://github.com/verina-dinata/verina-dinata.github.io/assets/82457559/5210b4f9-6b88-4ca7-a679-8420f4d9347d)
+
+
+### Summary
+This project attempts to recreate some functionalities of the Airbnb website.  
+
+Scope of this project:
+* Listing of holiday houses
+* Complete booking flow of holiday houses
+  
+### Technology
+#### Backend
+* Framework: Ruby on Rails
+* Deployment: Heroku for simplicity
+#### Frontend
+* Framework: Bootstrap
+* Deployment: Cloudinary for image upload
